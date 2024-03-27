@@ -1,6 +1,6 @@
 # mock-geniusf453228e-47b6-4257-809b-4551423cce10
 
-mock
+REPLACE_WITH_PROJECT_DESCRIPTION
 
 ## Collaborate with GPT Engineer
 
